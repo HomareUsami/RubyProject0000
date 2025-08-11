@@ -1,0 +1,4 @@
+# Sample Ruby Test Project
+
+勉強用に実装してみたRubyのあれこれを試す場所
+Railsなどのフレームワークを用いずあくまでRuby単体動作するコードの検証用リポジトリ
